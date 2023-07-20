@@ -61,7 +61,7 @@ Visualization Manager:
         Expand Link Details: false
         Expand Tree: false
         Link Tree Style: Links in Alphabetic Order
-        office_world_link:
+        office_world_extension_link:
           Alpha: 1
           Show Axes: false
           Show Trail: false
@@ -76,7 +76,7 @@ Visualization Manager:
   Global Options:
     Background Color: 48; 48; 48
     Default Light: true
-    Fixed Frame: office_world_link
+    Fixed Frame: office_world_extension_link
     Frame Rate: 30
   Name: root
   Tools:
