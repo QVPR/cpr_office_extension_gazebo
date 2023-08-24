@@ -1,6 +1,9 @@
 # cpr_office_extension_gazebo
 Extension of the original gazebo office environment by Clearpath Robotics, with textured objects, larger rooms, and more features.
 
+![alt text](https://github.com/QVPR/cpr_office_extension_gazebo/blob/main/docs/img1.png?raw=true)
+![alt text](https://github.com/QVPR/cpr_office_extension_gazebo/blob/main/docs/img2.png?raw=true)
+
 ## Usage
 ### Installation:
 ```
